@@ -1,0 +1,3 @@
+Create Form Component
+
+resources\views\components\form\form.blade.php
